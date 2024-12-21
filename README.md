@@ -17,7 +17,7 @@ Soy de profesión, Prevencionista de riesgos, en formación para ser una program
 
 ## 🚀 Proyectos Destacados
 
-### [Proyecto 1: Nombre del Proyecto](Enlace al Proyecto)
+### [Proyecto 1: Página web de mis productos de cosmética natural. [(Enlace al Proyecto)](https://github.com/Danielaramos23/Portafolio.git)
 - **Descripción**: Breve descripción del proyecto.
 - **Tecnologías utilizadas**: HTML, CSS, JavaScript, React, etc.
 - **Enlace al Proyecto**: [Ver Proyecto en vivo](Enlace del proyecto)
