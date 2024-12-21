@@ -2,7 +2,7 @@
 
 ![Texto alternativo](https://github.com/Danielaramos23/Portafolio-M-dulo-9/blob/main/Foto%20Curriculum.jpg)
 
-# Mi Portafolio
+# Mi Portafolio 💼🧑‍💻
 
 ¡Bienvenido a mi portafolio digital! Soy Daniela Ramos, una programadora en creación, apasionada por el diseño, desarrollo web. Aquí podrás ver algunos de los proyectos en los que he trabajado y conocer más sobre mi trayectoria profesional.
 
@@ -11,18 +11,18 @@ PERFIL PROFESIONAL.
 Profesional con alta capacidad para trabajo en equipo, interesada en nuevos desafíos, Siendo eficiente y eficaz a la hora de recibir órdenes y para el cumplimiento de nuevos objetivos. Formando relaciones interpersonales y siempre manteniendo compromiso con el entorno laboral.
 Con Actitud e interés de participar en la Organización que quiera contar conmigo.
 
-## 🌐 Sobre mí
+## 📝 Sobre mí
 
 Soy de profesión, Prevencionista de riesgos, en formación para ser una programadora. Me encanta aprender nuevas habilidades y enfrentar desafíos que me permitan crecer profesionalmente. Y lo más importante, soy mamá de un hermoso niño de 3 años <3
 
-### Habilidades:
+### 🔧 Habilidades:
 - Desarrollo Front-End: HTML, CSS, JavaScript, etc.
 - Diseño Gráfico: Adobe Photoshop, Adobe Illustrator, etc.
 - Herramientas: Git, GitHub, VS Code, etc.
 - Otras habilidades: Idioma Inglés.
 - Manejo en plataformas de datos como power BI y backoffice.
 
-## 🚀 Proyectos Destacados
+## 📂  Proyectos Destacados
 
 ### [Proyecto 1: Página web de mis productos de cosmética natural. 🔗 [(Enlace al Proyecto)](https://github.com/Danielaramos23/Portafolio.git)
 - **Descripción**: Breve descripción del proyecto.
@@ -34,7 +34,7 @@ Soy de profesión, Prevencionista de riesgos, en formación para ser una program
 - **Tecnologías utilizadas**: HTML, CSS, JavaScript, js, etc.
 
 
-## 📚 Educación y Experiencia
+## 🎓  Educación y Experiencia
 
 
 Enseñanza superior, Universidad Tecnológica Inacap, San Joaquin, Santiago.          				 Titulada Técnico en Prevención de riesgos, año 2018.
