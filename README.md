@@ -22,12 +22,12 @@ Soy de profesión, Prevencionista de riesgos, en formación para ser una program
 
 ## 🚀 Proyectos Destacados
 
-### [Proyecto 1: Página web de mis productos de cosmética natural. [(Enlace al Proyecto)](https://github.com/Danielaramos23/Portafolio.git)
+### [Proyecto 1: Página web de mis productos de cosmética natural. 🔗 [(Enlace al Proyecto)](https://github.com/Danielaramos23/Portafolio.git)
 - **Descripción**: Breve descripción del proyecto.
 - **Tecnologías utilizadas**: HTML, CSS, JavaScript, etc.
 
 
-### [Proyecto 2: Carrito de Compras muy sencillo, creado con Javascript, html, css y bootstrap https://github.com/Danielaramos23/Carrito.git
+### [Proyecto 2: Carrito de Compras muy sencillo, creado con Javascript, html, css y bootstrap  [(Enlace al Proyecto)](https://github.com/Danielaramos23/Carrito.git)) 
 - **Descripción**: Breve descripción del proyecto.
 - **Tecnologías utilizadas**: HTML, CSS, JavaScript, js, etc.
 
