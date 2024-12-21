@@ -1,5 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hola+Soy+Daniela+Ramos" alt="Typing SVG" /></a>
 
+![Texto alternativo](https://github.com/Danielaramos23/Portafolio-M-dulo-9/blob/main/Foto%20Curriculum.jpg)
 
 # Mi Portafolio
 
