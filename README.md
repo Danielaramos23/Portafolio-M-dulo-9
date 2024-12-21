@@ -2,18 +2,18 @@
 
 # Mi Portafolio
 
-¡Bienvenido a mi portafolio digital! Soy [Tu Nombre], un/a [Tu Profesión/Especialidad] apasionado/a por el diseño, desarrollo web, y la creación de soluciones innovadoras. Aquí podrás ver algunos de los proyectos en los que he trabajado y conocer más sobre mi trayectoria profesional.
+¡Bienvenido a mi portafolio digital! Soy Daniela Ramos, una programadora en creación, apasionada por el diseño, desarrollo web. Aquí podrás ver algunos de los proyectos en los que he trabajado y conocer más sobre mi trayectoria profesional.
 
 ## 🌐 Sobre mí
 
-Soy un/a [Tu Profesión] con experiencia en [Tecnologías, Herramientas, o Áreas de Trabajo]. Me encanta aprender nuevas habilidades y enfrentar desafíos que me permitan crecer profesionalmente.
+Soy de profesión, Prevencionista de riesgos, en formación para ser una programadora. Me encanta aprender nuevas habilidades y enfrentar desafíos que me permitan crecer profesionalmente. Y lo más importante, soy mamá de un hermoso niño de 3 años <3
 
 ### Habilidades:
-- Desarrollo Front-End: HTML, CSS, JavaScript, React, etc.
-- Desarrollo Back-End: Node.js, Python, PHP, etc.
-- Diseño Gráfico: Figma, Adobe Photoshop, Adobe Illustrator, etc.
+- Desarrollo Front-End: HTML, CSS, JavaScript, etc.
+- Diseño Gráfico: Adobe Photoshop, Adobe Illustrator, etc.
 - Herramientas: Git, GitHub, VS Code, etc.
-- Otras habilidades: [Otros conocimientos importantes]
+- Otras habilidades: Idioma Inglés.
+- Manejo en plataformas de datos como power BI y backoffice.
 
 ## 🚀 Proyectos Destacados
 
@@ -29,11 +29,6 @@ Soy un/a [Tu Profesión] con experiencia en [Tecnologías, Herramientas, o Área
 - **Enlace al Proyecto**: [Ver Proyecto en vivo](Enlace del proyecto)
 - **Repositorio**: [Ver código en GitHub](Enlace del repositorio)
 
-### [Proyecto 3: Nombre del Proyecto](Enlace al Proyecto)
-- **Descripción**: Breve descripción del proyecto.
-- **Tecnologías utilizadas**: Python, Flask, SQL, etc.
-- **Enlace al Proyecto**: [Ver Proyecto en vivo](Enlace del proyecto)
-- **Repositorio**: [Ver código en GitHub](Enlace del repositorio)
 
 ## 📚 Educación y Experiencia
 
