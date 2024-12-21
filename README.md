@@ -1,32 +1,27 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hola+Soy+Daniela+Ramos" alt="Typing SVG" /></a>
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mi Portafolio Digital</title>
-    <link rel="stylesheet" href="styles.css">
-    <script defer src="script.js"></script>
-</head>
-<body>
-    <header>
-        <nav>
-            <ul>
-                <li><a href="#inicio">Inicio</a></li>
-                <li><a href="#proyectos">Proyectos</a></li>
-                <li><a href="#acerca">Acerca de mí</a></li>
-                <li><a href="#contacto">Contacto</a></li>
-            </ul>
-        </nav>
-    </header>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hola+Soy+Daniela+Ramos" alt="Typing SVG" /></a>
-    <main>
-        <section id="inicio">
-            <h1>Bienvenidos a mi Portafolio</h1>
-            <p>Hola, soy <span id="nombre">Daniela Ramos G.</span>, desarrolladora en creación, apasionada por la tecnología y la innovación.</p>
-        </section>
+Typing SVG
+😄 Sobre mi 
 
-        <section id="proyectos">
+
+Soy una profesional reconvertida al area TI. Con solida experiencia trabajando en equipo, en aprendizaje continuo, resiliente y proactiva, Java fue el lenguaje que me abrio las puertas a este nuevo mundo. Despues de haber trabajado 20 años en tiendas de retail decido empezar a programar.
+
+
+👩‍💻 Conocimientos 
+
+                   
+
+
+🔭 Trabajando en 
+
+
+
+
+💼 Porfolio y CV 
+
+
+GitHub Portafolio LinkedIn
+
+
+< Elisa Urbano M. />
             <h2>Proyectos</h2>
             <article>
                 <h3>Proyecto 1: <span>[Nombre del Proyecto]</span></h3>
