@@ -34,7 +34,7 @@ Soy de profesión, Prevencionista de riesgos, en formación para ser una program
 - **Tecnologías utilizadas**: HTML, CSS, JavaScript, js, etc.
 
 
-## 🎓  Educación y Experiencia
+## 🎓  Formación académica. 
 
 
 Enseñanza superior, Universidad Tecnológica Inacap, San Joaquin, Santiago.          				 Titulada Técnico en Prevención de riesgos, año 2018.
@@ -43,8 +43,10 @@ Enseñanza Superior, Universidad Católica de Temuco, Años 2008- 2012
 
 Enseñanza Media, Instituto Claret, Temuco. Años 1995 -2007.           
   
-- **Experiencia laboral**:  
- 2023-2024 InTouch servicios, Temuco Chile. Teletrabajo.
+## 📝  Experencia laboral.
+
+
+2023-2024 InTouch servicios, Temuco Chile. Teletrabajo.
         Cargo: Atención InBound plataformas Junaeb. 
 (actualmente trabajando part-time).
 
