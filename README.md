@@ -4,6 +4,11 @@
 
 ¡Bienvenido a mi portafolio digital! Soy Daniela Ramos, una programadora en creación, apasionada por el diseño, desarrollo web. Aquí podrás ver algunos de los proyectos en los que he trabajado y conocer más sobre mi trayectoria profesional.
 
+PERFIL PROFESIONAL.
+
+Profesional con alta capacidad para trabajo en equipo, interesada en nuevos desafíos, Siendo eficiente y eficaz a la hora de recibir órdenes y para el cumplimiento de nuevos objetivos. Formando relaciones interpersonales y siempre manteniendo compromiso con el entorno laboral.
+Con Actitud e interés de participar en la Organización que quiera contar conmigo.
+
 ## 🌐 Sobre mí
 
 Soy de profesión, Prevencionista de riesgos, en formación para ser una programadora. Me encanta aprender nuevas habilidades y enfrentar desafíos que me permitan crecer profesionalmente. Y lo más importante, soy mamá de un hermoso niño de 3 años <3
@@ -19,33 +24,48 @@ Soy de profesión, Prevencionista de riesgos, en formación para ser una program
 
 ### [Proyecto 1: Página web de mis productos de cosmética natural. [(Enlace al Proyecto)](https://github.com/Danielaramos23/Portafolio.git)
 - **Descripción**: Breve descripción del proyecto.
-- **Tecnologías utilizadas**: HTML, CSS, JavaScript, React, etc.
-- **Enlace al Proyecto**: [Ver Proyecto en vivo](Enlace del proyecto)
-- **Repositorio**: [Ver código en GitHub](Enlace del repositorio)
+- **Tecnologías utilizadas**: HTML, CSS, JavaScript, etc.
 
-### [Proyecto 2: Nombre del Proyecto](Enlace al Proyecto)
+
+### [Proyecto 2: Carrito de Compras muy sencillo, creado con Javascript, html, css y bootstrap https://github.com/Danielaramos23/Carrito.git
 - **Descripción**: Breve descripción del proyecto.
-- **Tecnologías utilizadas**: HTML, CSS, JavaScript, Node.js, etc.
-- **Enlace al Proyecto**: [Ver Proyecto en vivo](Enlace del proyecto)
-- **Repositorio**: [Ver código en GitHub](Enlace del repositorio)
+- **Tecnologías utilizadas**: HTML, CSS, JavaScript, js, etc.
 
 
 ## 📚 Educación y Experiencia
 
-- **Grado o Certificación**: [Nombre de la carrera o certificación]  
-  **Institución**: [Nombre de la Universidad o Institución]  
-  **Año de finalización**: [Año]
+
+Enseñanza superior, Universidad Tecnológica Inacap, San Joaquin, Santiago.          				 Titulada Técnico en Prevención de riesgos, año 2018.
+
+Enseñanza Superior, Universidad Católica de Temuco, Años 2008- 2012
+
+Enseñanza Media, Instituto Claret, Temuco. Años 1995 -2007.           
   
 - **Experiencia laboral**:  
-  **[Nombre de la empresa]**: [Tu puesto de trabajo]  
-  **Fecha**: [Año de inicio] - [Año de finalización o presente]  
-  Descripción breve de tus responsabilidades y logros.
+ 2023-2024 InTouch servicios, Temuco Chile. Teletrabajo.
+        Cargo: Atención InBound plataformas Junaeb. 
+(actualmente trabajando part-time).
+
+2022 hasta hoy: Ishop for Ipsos, Temuco, Chile Cargo:  Cliente incógnito (Easy, Audi, Saxoline, Secret, etc). Freelance
+
+2018 – 2023 Pastelería Isis Cakes, Temuco, Chile
+       Cargo: Jefa de Salón.
+
+2017 FODES, Temuco, Chile.
+       Cargo: Asesora en prevención de riesgos.
+
+2017 Práctica técnico en prevención de riesgos en construcción SOCOVESA.
+
+2014-2016 Tortuga Centro de buceo, Isla de Pascua, Valparaíso, Chile.
+        Cargo: Buzo.
+
+2014 Mahinatur, Isla de Pascua, Valparaíso, Chile.
+        Cargo: Ejecutiva comercial, recepcionista. 
+
 
 ## 📞 Contacto
 
-- **Correo electrónico**: [tu.email@dominio.com]
-- **LinkedIn**: [Tu perfil de LinkedIn](Enlace)
-- **Twitter**: [Tu perfil de Twitter](Enlace)
-- **GitHub**: [Tu perfil de GitHub](https://github.com/tuusuario)
+- **Correo electrónico**: daniela.m.ramos.godoy@gmail.com
+- **GitHub**: Danielaramos23  https://github.com/Danielaramos23
 
 Gracias por visitar mi portafolio. Si tienes alguna pregunta o deseas trabajar conmigo, ¡no dudes en contactarme!
